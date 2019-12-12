@@ -30,6 +30,7 @@
 </head>
 <body>
 <div class="bs-example">
+  
     <table class="table table-striped">
 
 	<tr>
