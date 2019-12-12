@@ -12,6 +12,31 @@
       text-align: left;    
     }
     </style>
+<script src="js/jquery-3.4.1.js"></script>
+
+
+    <script type="text/javascript">
+var focus = 0,
+  blur = 0;
+$( "td" )
+  .focusout(function() {
+
+    $( "#teste" ).text( "focusout fired:" );
+  });
+
+
+    $(function () {
+//  $('#campo1').val("2");
+//  $('#teste').text('test');
+});
+
+    $( "#campo2" ).focus(function() {
+        $('#teste').text('test');
+});
+
+    // $('#teste').find('p').val("fgg");
+</script>
+
   </head>
 
   <body>
@@ -50,8 +75,8 @@
           <td>2</td>
           <td>Pesquisa</td>
           <td>5</td>
-          <td><input type="number" min="0" max="5" name="linha2" id="campo2"></td>
-          <td></td>
+          <td><input type="number" min="0" max="5" name="linha2" id="campo2"></td> 
+          <td><p id="teste"></p></td>
         </tr>
 
         <tr>
@@ -179,7 +204,7 @@
           <td>0,1</td>
           <td>mês</td>
           <td>96</td>
-          <td><input type="number" min="0" max="96" name="linha13" id="campocampo13"></td>
+          <td><input type="number" min="0" max="96" name="linha13" id="campo13"></td>
           <td></td>
         </tr>
 
@@ -189,7 +214,7 @@
           <td>0,17</td>
           <td>mês</td>
           <td>240</td>
-          <td><input type="number" min="0" max="240" name="linha14" id="campocampo14"></td>
+          <td><input type="number" min="0" max="240" name="linha14" id="campo14"></td>
           <td></td>
         </tr>
 
@@ -268,7 +293,7 @@
           <td>0,21</td>
           <td>mês</td>
           <td>96</td>
-          <td><input type="number" min="0" max="96" name="linha20" id="campocampo20"></td>
+          <td><input type="number" min="0" max="96" name="linha20" id="campo20"></td>
           <td></td>
         </tr>
 
