@@ -1,0 +1,19 @@
+INSERT INTO rsc (id, descricao, fator, unidade, maximo, comprovado, pontos) VALUES
+("1","Gestão Escolar (Direção, Assistente de Direção, Gerente).","0,17","Mês","120"),
+("2","Gestão Escolar (Supervisão, Coordenação, Orientação Educacional).","0,17","Mês","240"),test
+("3","Exercício de Magistério (Educação Infantil, Básica e Superior).","0,17","Mês","240"),
+("4","Gestão Iniciativa Privada na Área de Atuação (Presidência, Superintendência, Direção, Gerência, Chefia, Supervisão e coordenação em Empresas ou Entidades).","0,17","Mês","240"),
+("5","Experiência na área de atuação ou formação em nível técnico, administrativo, operacional, comercial ou profissional liberal.","0,1","Mês","120"),
+("6","Participação em Colegiados ou Conselhos de Empresas, Entidades ou Instituições de ensino.","0,17","Mês","120"),
+("7","Atividade em Organizações Sociais e Assistenciais reconhecidas como de utilidade pública ou organização da sociedade civil de interesse público.","0,17","Mês","120"),
+("8","Atividades na função de Instrutor em capacitação ou treinamento em empresas, instituições de ensino ou entidades.","0,17","Mês","240"),
+("9","Atuação como conferencista ou palestrante.","0,4","Evento","50"),
+("10","Participação em conferência, palestra, seminário, simpósio, colóquio, congresso ou similares.","0,17","Evento","120"),
+("11","Avaliação de projetos, protótipos e invenções.","1","Evento","120"),
+("12","Participação em comissões e representações institucionais, sindicais e profissionais.","0,17","Mês","120"),
+("13","Produção de material didático e/ou implantação de ambientes de aprendizagem, nas atividades de ensino, pesquisa, extensão e/ou inovação, artigo completo publicado em periódico científico ou apresentação artística em mostras ou similares, na área/subárea do curso.","1","Material","20"),
+("14","Revisão técnica, tradução ou organização de material didático, paradidático em atividades de ensino, pesquisa, extensão e/ou inovação.","0,5","Material","20"),
+("15","Participação em processos seletivos, em bancas de avaliação acadêmica e/ou de concursos, grupos de trabalho, oficinas institucionais, visitas técnicas com alunos, projetos de interesse institucional de ensino, pesquisa, extensão e/ou inovação, projetos e/ou práticas pedagógicas de reconhecida relevância.","1","Atividade concluída","200"),
+("16","Participação no desenvolvimento de protótipos, depósitos e/ou registros de propriedade intelectual.","5","Atividade concluída","4"),
+("17","Prêmios por atividades científicas, artísticas, esportivas e culturais.","5","Prêmio","4"),
+("18","Organização de eventos científicos, tecnológicos, esportivos, sociais, filantrópicos ou culturais.","2","Evento","10
