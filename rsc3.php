@@ -28,7 +28,7 @@ $( "td" )
 
     $(function () {
 //  $('#campo1').val("2");
-//  $('#teste').text('test');
+  $('#teste').text('test');
 });
 
     $( "#campo2" ).focus(function() {
