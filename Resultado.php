@@ -1,24 +1,49 @@
-<!DOCTYPE html>
-<html>
+  <!DOCTYPE html>
 
-  <head>
-    <style>
-    table, th, td {
-      border: 1px solid black;
-      border-collapse: collapse;
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Bootstrap 4 Striped Table</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<style type="text/css">
+    .bs-example{
+      margin: 20px;
+      text-align: center;
     }
-    th, td {
-      padding: 5px;
-      text-align: left;    
+    table,th,td{
+      
+         border: 1px solid black;
+  border-collapse: collapse;
+       text-align: center;
+ 
+
     }
-    </style>
-  </head>
+</style>
+
+<script src="js/jquery-3.4.1.js"></script>
+
+
+    <script type="text/javascript">
+
+    $(function () {
+  $('#campo1').val("2");
+  $('#teste').text('test');
+});
+
+</script>
+
+</head>
 
   <body>
 
-    <div>
+    <div class="bs-example">
 
-      <table>
+      <table class="table table-striped">
 
         <tr>
           <th>RECONHECIMENTO DE SABERES E COMPETÊNCIAS RSC-I</th>
@@ -102,12 +127,12 @@
         </tr>
 
         <tr>          
-          <th>Subtotal</th>
+          <th bgcolor="yellow">Subtotal</th>
           <th>10</th>
           <th>100</th>
           <th></th>
           <th></th>
-          <th></th>
+          <th bgcolor="yellow"></th>
         </tr>
 
         <tr>
@@ -183,12 +208,12 @@
         </tr>
 
         <tr>          
-          <th>Subtotal</th>
+          <th bgcolor="yellow">Subtotal</th>
           <th>10</th>
           <th>100</th>
           <th></th>
           <th></th>
-          <th></th>
+          <th bgcolor="yellow"></th>
         </tr>
 
         <tr>
@@ -264,21 +289,21 @@
         </tr>
 
         <tr>          
-          <th>Subtotal</th>
+          <th bgcolor="yellow">Subtotal</th>
           <th>10</th>
           <th>100</th>
           <th></th>
           <th></th>
-          <th></th>
+          <th bgcolor="yellow"></th>
         </tr>
 
         <tr>          
-          <th>TOTAL</th>
+          <th bgcolor="yellow">TOTAL</th>
           <th>30</th>
           <th>300</th>
           <th></th>
           <th></th>
-          <th></th>
+          <th bgcolor="yellow"></th>
         </tr>
 
       </table>
