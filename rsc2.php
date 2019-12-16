@@ -1,6 +1,6 @@
 
-
 	<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -41,6 +41,7 @@
 </head>
 <body>
 <div class="bs-example">
+
     <table class="table table-striped">
 	 <tr>
 	  <th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC II</th>
