@@ -11,7 +11,16 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <style type="text/css">
     .bs-example{
+     
       margin: 20px;
+    }
+    table,th,td{
+      
+         border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+ 
+
     }
 </style>
 
@@ -29,7 +38,7 @@
 
 </head>
 <body>
-<div class="bs-example">
+
     <table class="table table-striped">
 
 	<tr>
@@ -787,7 +796,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td bgcolor="yellow"></td>
   </tr>
 </table>
-</div>
+
 <div>
   <table >
      <tr>
@@ -872,12 +881,12 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
   </tr>
 
   <tr>  
-    <th>Subtotal</th>
+    <th colspan="" bgcolor="yellow">Subtotal</th>
     <th>10</th>
     <th>100</th>
     <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
-    <th></th>
+    <th><input type="number" min="0" max="20"></th> 
+    <th colspan="2" bgcolor="yellow"></th>
   </tr>
 
   </table>
