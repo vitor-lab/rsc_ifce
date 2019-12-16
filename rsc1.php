@@ -28,8 +28,11 @@
 </script>
 
 </head>
+
 <body>
+
 <div class="bs-example">
+  
     <table class="table table-striped">
 
 	<tr>
@@ -52,7 +55,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo1t1"></td>
     <td></td>
   </tr>
 
@@ -62,7 +65,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>240</td>
-    <td><input type="number" min="0" max="20" id="campo1"></td>
+    <td><input type="number" min="0" max="20" id="campo2t1"></td>
     <td id="teste"></td>
   </tr>
 
@@ -72,7 +75,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>240</td>
-    <td><input type="number" min="0" max="20" id="campo2"></td>
+    <td><input type="number" min="0" max="20" id="campo3t1"></td>
     <td id=""></td>
   </tr>
 
@@ -82,7 +85,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>240</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo4t1"></td>
     <td></td>
   </tr>
 
@@ -92,7 +95,7 @@
     <td>0,1</td>
     <td>Mês</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo5t1"></td>
     <td></td>
   </tr>
 
@@ -102,7 +105,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo6t1"></td>
     <td></td>
   </tr>
 
@@ -112,7 +115,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo7t1"></td>
     <td></td>
   </tr>
 
@@ -122,7 +125,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>240</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo8t1"></td>
     <td></td>
   </tr>
 
@@ -132,7 +135,7 @@
     <td>0,4</td>
     <td>Evento</td>
     <td>50</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo9t1"></td>
     <td></td>
   </tr>
 
@@ -142,7 +145,7 @@
     <td>0,17</td>
     <td>Evento</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo10t1"></td>
     <td></td>
   </tr>
 
@@ -152,7 +155,7 @@
     <td>1</td>
     <td>Evento</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo11t1"></td>
     <td></td>
   </tr>
 
@@ -162,7 +165,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>120</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo12t1"></td>
     <td></td>
   </tr>
 
@@ -172,7 +175,7 @@
     <td>1</td>
     <td>Material</td>
     <td>20</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo13t1"></td>
     <td></td>
   </tr>
 
@@ -182,7 +185,7 @@
     <td>0,5</td>
     <td>Material</td>
     <td>20</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo14t1"></td>
     <td></td>
   </tr>
 
@@ -192,7 +195,7 @@
     <td>1</td>
     <td>Atividade concluída</td>
     <td>200</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo15t1"></td>
     <td></td>
   </tr>
 
@@ -202,7 +205,7 @@
     <td>5</td>
     <td>Atividade concluída</td>
     <td>4</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo16t1"></td>
     <td></td>
   </tr>
 
@@ -212,7 +215,7 @@
     <td>5</td>
     <td>Prêmio</td>
     <td>4</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo17t1"></td>
     <td></td>
   </tr>
 
@@ -222,7 +225,7 @@
     <td>2</td>
     <td>Evento</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo18t1"></td>
     <td></td>
   </tr>
 
@@ -252,7 +255,7 @@
     <td>0,4</td>
     <td>Evento</td>
     <td>25</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo19t1"></td>
     <td></td>
   </tr>
 
@@ -262,7 +265,7 @@
     <td>10</td>
     <td>Curso concluído</td>
     <td>1</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo20t1"></td>
     <td></td>
   </tr>
 
@@ -272,7 +275,7 @@
     <td>10</td>
     <td>Curso concluído</td>
     <td>1</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo21t1"></td>
     <td></td>
   </tr>
 
@@ -301,7 +304,7 @@
     <td>0,08</td>
     <td>Mês</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo22t1"></td>
     <td></td>
   </tr>
 
@@ -311,7 +314,7 @@
     <td>0,08</td>
     <td>Mês</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo23t1"></td>
     <td></td>
   </tr>
 
@@ -321,7 +324,7 @@
     <td>0,08</td>
     <td>MÊs</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo24t1"></td>
     <td></td>
   </tr>
 
@@ -331,7 +334,7 @@
     <td>0,08</td>
     <td>Mês</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo25t1"></td>
     <td></td>
   </tr>
 
@@ -341,7 +344,7 @@
     <td>0,08</td>
     <td>Mês</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo26t1"></td>
     <td></td>
   </tr>
 
@@ -351,7 +354,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo27t1"></td>
     <td></td>
   </tr>
 
@@ -361,7 +364,7 @@
     <td>0,5</td>
     <td>Orientação concluída</td>
     <td>150</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo28t1"></td>
     <td></td>
   </tr>
 
@@ -371,7 +374,7 @@
     <td>0,5</td>
     <td>Orientação concluída</td>
     <td>150</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo29t1"></td>
     <td></td>
   </tr>
 
@@ -381,7 +384,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>300</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo30t1"></td>
     <td></td>
   </tr>
 
@@ -391,7 +394,7 @@
     <td>0,2</td>
     <td>Mês</td>
     <td>200</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo31t1"></td>
     <td></td>
   </tr>
 
@@ -401,7 +404,7 @@
     <td>0,25</td>
     <td>Mês</td>
     <td>150</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo32t1"></td>
     <td></td>
   </tr>
 
@@ -411,7 +414,7 @@
     <td>0,25</td>
     <td>Mês</td>
     <td>150</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo33t1"></td>
     <td></td>
   </tr>
 
@@ -440,7 +443,7 @@
     <td>0,2</td>
     <td>Mês</td>
     <td>50</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo34t1"></td>
     <td></td>
   </tr>
 
@@ -450,7 +453,7 @@
     <td>0,1</td>
     <td>Mês</td>
     <td>100</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo35t1"></td>
     <td></td>
   </tr>
 
@@ -460,7 +463,7 @@
     <td>0,1</td>
     <td>Mês</td>
     <td>96</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo36t1"></td>
     <td></td>
   </tr>
 
@@ -470,7 +473,7 @@
     <td>0,05</td>
     <td>Mês</td>
     <td>192</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo37t1"></td>
     <td></td>
   </tr>
 
@@ -480,7 +483,7 @@
     <td>0,2</td>
     <td>Mês</td>
     <td>50</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo38t1"></td>
     <td></td>
   </tr>
 
@@ -490,7 +493,7 @@
     <td>0,5</td>
     <td>Processo</td>
     <td>20</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo39t1"></td>
     <td></td>
   </tr>
 
@@ -500,7 +503,7 @@
     <td>0,2</td>
     <td>Mês</td>
     <td>70</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo40t1"></td>
     <td></td>
   </tr>
 
@@ -510,7 +513,7 @@
     <td>0,15</td>
     <td>Mês</td>
     <td>70</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo41t1"></td>
     <td></td>
   </tr>
 
@@ -539,7 +542,7 @@
     <td>6</td>
     <td>Livro</td>
     <td>2</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo42t1"></td>
     <td></td>
   </tr>
 
@@ -549,7 +552,7 @@
     <td>1</td>
     <td>Material</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo43t1"></td>
     <td></td>
   </tr>
 
@@ -559,7 +562,7 @@
     <td>0,25</td>
     <td>Material</td>
     <td>40</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo44t1"></td>
     <td></td>
   </tr>
 
@@ -569,7 +572,7 @@
     <td>2</td>
     <td>projeto aprovado</td>
     <td>20</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo45t1"></td>
     <td></td>
   </tr>
 
@@ -597,7 +600,7 @@
     <td>0,42</td>
     <td>Mês</td>
     <td>48</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo46t1"></td>
     <td></td>
   </tr>
 
@@ -607,7 +610,7 @@
     <td>0,42</td>
     <td>Mês</td>
     <td>48</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo47t1"></td>
     <td></td>
   </tr>
 
@@ -617,7 +620,7 @@
     <td>0,28</td>
     <td>Mês</td>
     <td>72</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo48t1"></td>
     <td></td>
   </tr>
 
@@ -627,7 +630,7 @@
     <td>0,28</td>
     <td>Mês</td>
     <td>72</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo49t1"></td>
     <td></td>
   </tr>
 
@@ -637,7 +640,7 @@
     <td>0,21</td>
     <td>projeto aprovado</td>
     <td>96</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo50t1"></td>
     <td></td>
   </tr>
 
@@ -665,7 +668,7 @@
     <td>2</td>
     <td>Concurso/Processo seletivo</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo51t1"></td>
     <td></td>
   </tr>
 
@@ -675,7 +678,7 @@
     <td>1</td>
     <td>concurso/processo</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo52t1"></td>
     <td></td>
   </tr>
 
@@ -685,7 +688,7 @@
     <td>1</td>
     <td>concurso/processo seletivo</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo53t1"></td>
     <td></td>
   </tr>
 
@@ -695,7 +698,7 @@
     <td>1</td>
     <td>concurso/processo seletivo</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo54t1"></td>
     <td></td>
   </tr>
 
@@ -705,7 +708,7 @@
     <td>0,13</td>
     <td>Prova</td>
     <td>80</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo55t1"></td>
     <td></td>
   </tr>
 
@@ -716,7 +719,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td>0,13</td>
     <td>Banca</td>
     <td>80</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo56t1"></td>
     <td></td>
   </tr>
 
@@ -726,7 +729,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td>0,25</td>
     <td>Banca</td>
     <td>40</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo57t1"></td>
     <td></td>
   </tr>
 
@@ -736,7 +739,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td>0,2</td>
     <td>Banca</td>
     <td>50</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo58t1"></td>
     <td></td>
   </tr>
 
@@ -746,7 +749,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td>1</td>
     <td>processo de seleção</td>
     <td>10</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo59t1"></td>
     <td></td>
   </tr>
 
@@ -774,7 +777,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td>10</td>
     <td>Curso</td>
     <td>1</td>
-    <td><input type="number" min="0" max="20"></td>
+    <td><input type="number" min="0" max="20" id="campo60t1"></td>
     <td></td>
   </tr>
 

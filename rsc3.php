@@ -1,50 +1,38 @@
 <!DOCTYPE html>
-<html>
-
-  <head>
-    <style>
-    table, th, td {
-      border: 1px solid black;
-      border-collapse: collapse;
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Bootstrap 4 Striped Table</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<style type="text/css">
+    .bs-example{
+      margin: 20px;
     }
-    th, td {
-      padding: 5px;
-      text-align: left;    
-    }
-    </style>
+</style>
     
-<script src="js/jquery-3.4.1.js"></script>
+  <script src="js/jquery-3.4.1.js"></script>
 
+  <script type="text/javascript">
 
-    <script type="text/javascript">
-var focus = 0,
-  blur = 0;
-$( "td" )
-  .focusout(function() {
+     $(function () {
+   $('#campo1').val("2");
+   $('#teste').text('test');
+   });
 
-    $( "#teste" ).text( "focusout fired:" );
-  });
-
-
-    $(function () {
-//  $('#campo1').val("2");
-  $('#teste').text('test');
-});
-
-    $( "#campo2" ).focus(function() {
-        $('#teste').text('test');
-});
-
-    // $('#teste').find('p').val("fgg");
-</script>
+  </script>
 
   </head>
 
   <body>
 
-    <div>
-
-      <table>
+    <div class="bs-example">
+    
+     <table class="table table-striped">
 
       	<tr>
       		<th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC III</th>
@@ -85,8 +73,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM I</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM I</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
         <tr>  
@@ -224,8 +212,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM II</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM II</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
         <tr>  
@@ -303,8 +291,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM III</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM III</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
         <tr>  
@@ -372,8 +360,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM IV</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM IV</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
         <tr>  
@@ -421,8 +409,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM V</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM V</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
         <tr>  
@@ -450,8 +438,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM VI</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM VI</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
         <tr>  
@@ -669,8 +657,8 @@ $( "td" )
           <td></td>
           <td></td>
           <td></td>
-          <th colspan="2">TOTAL NO ITEM VII</th>
-          <td></td>
+          <th colspan="2" bgcolor="yellow">TOTAL NO ITEM VII</th>
+          <td bgcolor="yellow"></td>
         </tr>
 
       </table>
@@ -679,7 +667,7 @@ $( "td" )
     <div>
 
       <table>
-        
+
         <tr>
           <th>RECONHECIMENTO DE SABERES E COMPETÊNCIAS RSC-III</th>
           <th>Peso</th>
