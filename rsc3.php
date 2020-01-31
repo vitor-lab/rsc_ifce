@@ -26,18 +26,6 @@
     }
 </style>
 
-<script src="js/jquery-3.4.1.js"></script>
-
-
-    <script type="text/javascript">
-
-    $(function () {
-  $('#campo1').val("2");
-  $('#teste').text('test');
-});
-
-</script>
-
 </head>
 
   <body>
@@ -66,8 +54,8 @@
           <td>10</td>
           <td>Contrato ou licenciamento</td>
           <td>1</td>
-          <td><input type="number" min="0" max="1" name="linha1" id="campo1"></td>
-          <td></td>
+          <td><input type="number" min="0" max="1" name="linha1" id="QUC1T3"></td>
+          <td id="po1"></td>
         </tr>
 
         <tr>
@@ -76,8 +64,8 @@
           <td>2</td>
           <td>Pesquisa</td>
           <td>5</td>
-          <td><input type="number" min="0" max="5" name="linha2" id="campo2"></td> 
-          <td><p id="teste"></p></td>
+          <td><input type="number" min="0" max="5" name="linha2" id="QUC2T3"></td> 
+          <td id="po2"></td>
         </tr>
 
         <tr>

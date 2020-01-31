@@ -40,7 +40,7 @@
 
 <body>
 
-<div
+
     <table>
 
 	<tr>
