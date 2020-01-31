@@ -40,8 +40,8 @@
 
 <body>
 
-<div class="bs-example">
-    <table class="table table-striped">
+<div
+    <table>
 
 	<tr>
 		<th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC I</th>
@@ -596,6 +596,7 @@
   <tr>
     <th></th>
     <th>VI - Atuação na gestão acadêmica e institucional, contemplando o impacto de suas ações individuais nas demais diretrizes dispostas para todos os níveis da RSC </th>
+    <th>Fator de Pontuação</th>
     <th>Unidade</td>
     <th>Quantidade Máxima de Unidades</th>
     <th>Quantidade de unidades comprovadas</th>
@@ -664,6 +665,7 @@
   <tr>
     <th></th>
     <th>VII - Participação em processos seletivos, em bancas de avaliação acadêmica e/ou de concursos </th>
+    <th>Fator de pontuação</th>
     <th>Unidade</th>
     <th>Quantidade Máxima de Unidades</th>
     <th>Quantidade de unidades comprovadas</th>
@@ -773,6 +775,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
    <tr>
     <th></th>
     <th>VIII - Outras graduações, na área de interesse, além daquela que o habilita e define o nível de RSC pretendido, no âmbito do plano de qualificação institucional.</th>
+    <th>Fator de Pontuação</th>
     <th>Unidade</th>
     <th>Quantidade Máxima de Unidades</th>
     <th>Quantidade de unidades comprovadas</th>

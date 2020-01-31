@@ -63,7 +63,7 @@
     <td>0,33</td>
     <td>orientação concluída</td>
     <td>60</td>
-    <td></td>
+    <td><input type="number" min="0" = max="60" id="campo1t2"></td>
     <td></td>
   </tr>
 
@@ -73,7 +73,7 @@
     <td>0,5</td>
     <td>orientação concluída</td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo2t2"></td>
     <td></td>
   </tr>
 
@@ -83,7 +83,7 @@
     <td>0,5</td>
     <td>orientação concluída</td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo3t2"></td>
     <td></td>
   </tr>
 
@@ -93,7 +93,7 @@
     <td>0,33</td>
     <td>orientação concluída</td>
     <td>60</td>
-    <td></td>
+    <td><input type="number" min="0" = max="60" id="campo4t2"></td>
     <td></td>
   </tr>
 
@@ -103,7 +103,7 @@
     <td>0,33</td>
     <td>orientação concluída</td>
     <td>60</td>
-    <td></td>
+    <td><input type="number" min="0" = max="60" id="campo5t2"></td>
     <td></td>
   </tr>
 
@@ -113,7 +113,7 @@
     <td>0,33</td>
     <td>orientação concluída</td>
     <td>60</td>
-    <td></td>
+    <td><input type="number" min="0" = max="60" id="campo6t2"></td>
     <td></td>
   </tr>
 
@@ -123,7 +123,7 @@
     <td>0,2</td>
     <td>Mês</td>
     <td>100</td>
-    <td></td>
+    <td><input type="number" min="0" = max="100" id="campo7t2"></td>
     <td></td>
   </tr>
 
@@ -133,7 +133,7 @@
     <td>0,15</td>
     <td>evento</td>
     <td>140</td>
-    <td></td>
+    <td><input type="number" min="0" = max="140" id="campo8t2"></td>
     <td></td>
   </tr>
 
@@ -143,7 +143,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM I</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemI-t2"></td>
   </tr>
 
 	<tr>
@@ -162,7 +162,7 @@
     <td>10</td>
     <td>patente ou registro</td>
     <td>1</td>
-    <td></td>
+    <td><input type="number" min="0" = max="1" id="campo9t2"></td>
     <td></td>
   </tr>
 
@@ -172,7 +172,7 @@
     <td>2</td>
     <td>desenvolvimento concluído</td>
     <td>5</td>
-    <td></td>
+    <td><input type="number" min="0" = max="5" id="campo10t2"></td>
     <td></td>
   </tr>
 
@@ -182,7 +182,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM II</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemII-t2"></td>
   </tr>
 
     <tr>
@@ -201,7 +201,7 @@
     <td>0,25</td>
     <td>mês </td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo11t2"></td>
     <td></td>
   </tr>
 
@@ -211,7 +211,7 @@
     <td>0,25</td>
     <td>Mês</td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo12t2"></td>
     <td></td>
   </tr>
 
@@ -221,7 +221,7 @@
     <td>0,25</td>
     <td>Mês</td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo13t2"></td>
     <td></td>
   </tr>
 
@@ -231,7 +231,7 @@
     <td>0,25</td>
     <td>Mês</td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo14t2"></td>
     <td></td>
   </tr>
 
@@ -241,7 +241,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM III</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemIII-t2"></td>
   </tr>
 
    <tr>
@@ -260,7 +260,7 @@
     <td>5</td>
     <td>projeto </td>
     <td>4</td>
-    <td></td>
+    <td><input type="number" min="0" = max="4" id="campo15t2"></td>
     <td></td>
   </tr>
 
@@ -270,7 +270,7 @@
     <td>5</td>
     <td>projeto </td>
     <td>4</td>
-    <td></td>
+    <td><input type="number" min="0" = max="4" id="campo16t2"></td>
     <td></td>
   </tr>
 
@@ -280,7 +280,7 @@
     <td>2,5</td>
     <td>projeto</td>
     <td>8</td>
-    <td></td>
+    <td><input type="number" min="0" = max="8" id="campo17t2"></td>
     <td></td>
   </tr>
 
@@ -290,7 +290,7 @@
     <td>0,25</td>
     <td>Mês</td>
     <td>40</td>
-    <td></td>
+    <td><input type="number" min="0" = max="40" id="campo18t2"></td>
     <td></td>
   </tr>
 
@@ -300,7 +300,7 @@
     <td>0,1</td>
     <td>Mês</td>
     <td>240</td>
-    <td></td>
+    <td><input type="number" min="0" = max="240" id="campo19t2"></td>
     <td></td>
   </tr>
 
@@ -310,7 +310,7 @@
     <td>0,1</td>
     <td>Mês</td>
     <td>96</td>
-    <td></td>
+    <td><input type="number" min="0" = max="96" id="campo20t2"></td>
     <td></td>
   </tr>
 
@@ -320,7 +320,7 @@
     <td>0,17</td>
     <td>Mês</td>
     <td>240</td>
-    <td></td>
+    <td><input type="number" min="0" = max="240" id="campo12t2"></td>
     <td></td>
   </tr>
 
@@ -330,7 +330,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM IV</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemIV-t2"></td>
   </tr>
 
 
@@ -350,7 +350,7 @@
     <td>5</td>
     <td>projeto </td>
     <td>4</td>
-    <td></td>
+    <td><input type="number" min="0" = max="4" id="campo22t2"></td>
     <td></td>
   </tr>
 
@@ -360,7 +360,7 @@
     <td>5</td>
     <td>projeto </td>
     <td>4</td>
-    <td></td>
+    <td><input type="number" min="0" = max="4" id="campo23t2"></td>
     <td></td>
   </tr>
 
@@ -370,7 +370,7 @@
     <td>2</td>
     <td>Evento </td>
     <td>5</td>
-    <td></td>
+    <td><input type="number" min="0" = max="5" id="campo24t2"></td>
     <td></td>
   </tr>
 
@@ -380,7 +380,7 @@
     <td>1</td>
     <td>Evento</td>
     <td>10</td>
-    <td></td>
+    <td><input type="number" min="0" = max="10" id="campo25t2"></td>
     <td></td>
   </tr>
 
@@ -390,7 +390,7 @@
     <td>0,5</td>
     <td>Evento</td>
     <td>20</td>
-    <td></td>
+    <td><input type="number" min="0" = max="20" id="campo26t2"></td>
     <td></td>
   </tr>
 
@@ -400,7 +400,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM V</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemV-t2"></td>
   </tr>
 
    <tr>
@@ -419,7 +419,7 @@
     <td>1</td>
     <td>Evento</td>
     <td>20 </td>
-    <td></td>
+    <td><input type="number" min="0" = max="20" id="campo27t2"></td>
     <td></td>
   </tr>
 
@@ -429,7 +429,7 @@
     <td>1</td>
     <td>Evento</td>
     <td>20</td>
-    <td></td>
+    <td><input type="number" min="0" = max="20" id="campo28t2"></td>
     <td></td>
   </tr>
 
@@ -439,7 +439,7 @@
     <td>1</td>
     <td>Evento</td>
     <td>20</td>
-    <td></td>
+    <td><input type="number" min="0" = max="20" id="campo29t2"></td>
     <td></td>
   </tr>
 
@@ -449,7 +449,7 @@
     <td>0,25</td>
     <td>Evento</td>
     <td>80</td>
-    <td></td>
+    <td><input type="number" min="0" = max="80" id="campo30t2"></td>
     <td></td>
   </tr>
 
@@ -459,7 +459,7 @@
     <td>0,25</td>
     <td>Evento</td>
     <td>80</td>
-    <td></td>
+    <td><input type="number" min="0" = max="20" id="campo31t2"></td>
     <td></td>
   </tr>
 
@@ -469,7 +469,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM VI</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemVI-t2"></td>
   </tr>
 
    <tr>
@@ -488,7 +488,7 @@
     <td>10</td>
     <td>Curso </td>
     <td>1</td>
-    <td></td>
+    <td><input type="number" min="0" = max="1" id="campo32t2"></td>
     <td></td>
   </tr>
 
@@ -498,7 +498,7 @@
     <td>10</td>
     <td>Curso</td>
     <td>1</td>
-    <td></td>
+    <td><input type="number" min="0" = max="1" id="campo33t2"></td>
     <td></td>
   </tr>
 
@@ -508,7 +508,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM VII</th>
-    <td bgcolor="yellow"></td>
+    <td bgcolor="yellow"><input id="campo-total-itemVII-t2"></td>
   </tr>
 
   </table>
@@ -537,8 +537,8 @@
     <th>II - Participação no desenvolvimento de protótipos, depósitos e/ou registros de propriedade intelectual </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
 
@@ -546,8 +546,8 @@
     <th>III - Participação em grupos de trabalho e oficinas institucionais </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
 
@@ -573,8 +573,8 @@
     <th>VI - Participação na organização de eventos científicos, tecnológicos, esportivos, sociais e/ou culturais </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
 
@@ -582,8 +582,8 @@
     <th>VII - Outras pós-graduações lato sensu, na área de interesse, além daquela que o habilita e define o nível de RSC pretendido, no âmbito do plano de qualificação institucional</th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
 
@@ -591,8 +591,8 @@
     <th>Subtotal</th>
     <th>10</th>
     <th>100</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="100"></th>
+    <th><input type="number" min="0" max="100"></th>
     <th></th>
   </tr>
 
