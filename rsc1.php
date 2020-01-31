@@ -43,12 +43,12 @@
 
     <table>
 
-	<tr>
-		<th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC I</th>
-	</tr>
+  <tr>
+    <th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC I</th>
+  </tr>
 
   <tr>
-  	<th></th>
+    <th></th>
     <th>I- Experiência na área de formação e/ou atuação do docente, anterior ao ingresso na Instituição, contemplando o impacto de suas ações nas demais diretrizes dispostas para todos os níveis do RSC</th>
     <th>Fator de Pontuação</th>
     <th>Unidade</th>
@@ -58,7 +58,7 @@
   </tr> 
 
   <tr>
-  	<th>1</th>
+    <th>1</th>
     <td>Gestão Escolar (Direção, Assistente de Direção, Gerente).</td>
     <td>0,17</td>
     <td>Mês</td>
@@ -68,7 +68,7 @@
   </tr>
 
    <tr>
-   	<th>2</th>
+    <th>2</th>
     <td>Gestão Escolar (Supervisão, Coordenação, Orientação Educacional).</td>
     <td>0,17</td>
     <td>Mês</td>
@@ -78,7 +78,7 @@
   </tr>
 
    <tr>
-   	<th>3</th>
+    <th>3</th>
     <td>Exercício de Magistério (Educação Infantil, Básica e Superior).</td>
     <td>0,17</td>
     <td>Mês</td>
@@ -239,7 +239,7 @@
 
 
   <tr>
-   	<th></th>
+    <th></th>
     <td></td>
     <td></td>
     <td></td>
@@ -248,7 +248,7 @@
   </tr>
 
  <tr>
-   	<th></th>
+    <th></th>
     <th>II - Cursos de capacitação e/ou graduação na área de interesse institucional</th>
     <th>Fator de Pontuação</th>
     <th>Unidade</th>

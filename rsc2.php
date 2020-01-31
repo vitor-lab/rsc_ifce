@@ -1,5 +1,5 @@
 
-	<!DOCTYPE html>
+  <!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -43,12 +43,12 @@
 <div class="bs-example">
 
     <table class="table table-striped">
-	 <tr>
-	  <th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC II</th>
-	</tr>
+   <tr>
+    <th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC II</th>
+  </tr>
 
-	<tr>
-  	<th></th>
+  <tr>
+    <th></th>
     <th>I- Experiência na área de formação e/ou atuação do docente, anterior ao ingresso na Instituição, contemplando o impacto de suas ações nas demais diretrizes dispostas para todos os níveis do RSC</th>
     <th>Fator de Pontuação</th>
     <th>Unidade</th>
@@ -58,7 +58,7 @@
   </tr>
 
   <tr>
-  	<th>1</th>
+    <th>1</th>
     <td>Orientação ou coorientação de TCC de cursos técnicos.</td>
     <td>0,33</td>
     <td>orientação concluída</td>
@@ -68,7 +68,7 @@
   </tr>
 
   <tr>
-  	<th>2</th>
+    <th>2</th>
     <td>Orientação ou coorientação de TCC de cursos de graduação.</td>
     <td>0,5</td>
     <td>orientação concluída</td>
@@ -78,7 +78,7 @@
   </tr>
 
   <tr>
-  	<th>3</th>
+    <th>3</th>
     <td>Orientação ou coorientação de TCC ou Monografia de especialização.</td>
     <td>0,5</td>
     <td>orientação concluída</td>
@@ -88,7 +88,7 @@
   </tr>
 
   <tr>
-  	<th>4</th>
+    <th>4</th>
     <td>Orientação de bolsistas de monitoria.</td>
     <td>0,33</td>
     <td>orientação concluída</td>
@@ -98,7 +98,7 @@
   </tr>
 
   <tr>
-  	<th>5</th>
+    <th>5</th>
     <td>Orientação de bolsistas de pesquisa.</td>
     <td>0,33</td>
     <td>orientação concluída</td>
@@ -108,7 +108,7 @@
   </tr>
 
   <tr>
-  	<th>6</th>
+    <th>6</th>
     <td>Orientação bolsistas de extensão.</td>
     <td>0,33</td>
     <td>orientação concluída</td>
@@ -118,7 +118,7 @@
   </tr>
 
   <tr>
-  	<th>7</th>
+    <th>7</th>
     <td>Orientação ou supervisão de estágios curriculares, obrigatório ou não.</td>
     <td>0,2</td>
     <td>Mês</td>
@@ -128,7 +128,7 @@
   </tr>
 
   <tr>
-  	<th>8</th>
+    <th>8</th>
     <td>Orientação e acompanhamento de estudantes em atividades de ensino (visitas técnicas, viagens de estudo e outras).</td>
     <td>0,15</td>
     <td>evento</td>
@@ -138,16 +138,16 @@
   </tr>
 
    <tr>
-   	<th></th>
+    <th></th>
     <td></td>
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM I</th>
-    <td bgcolor="yellow"><input id="campo-total-itemI-t2"></td>
+    <td bgcolor="yellow" id="T1"></td>
   </tr>
 
-	<tr>
-  	<th></th>
+  <tr>
+    <th></th>
     <th>II - Participação no desenvolvimento de protótipos, depósitos e/ou registros de propriedade intelectual </th>
     <th>Fator de Pontuação</th>
     <th>Unidade</th>
@@ -157,7 +157,7 @@
   </tr>
 
   <tr>
-  	<th>9</th>
+    <th>9</th>
     <td>Propriedade intelectual (patente, registro).</td>
     <td>10</td>
     <td>patente ou registro</td>
@@ -167,7 +167,7 @@
   </tr>
 
   <tr>
-  	<th>10</th>
+    <th>10</th>
     <td>Produto ou processo não patenteado, protótipo, software não registrado e similares.</td>
     <td>2</td>
     <td>desenvolvimento concluído</td>
@@ -177,12 +177,12 @@
   </tr>
 
     <tr>
-   	<th></th>
+    <th></th>
     <td></td>
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM II</th>
-    <td bgcolor="yellow"><input id="campo-total-itemII-t2"></td>
+    <td bgcolor="yellow" id="T2"></td>
   </tr>
 
     <tr>
@@ -241,7 +241,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM III</th>
-    <td bgcolor="yellow"><input id="campo-total-itemIII-t2"></td>
+    <td bgcolor="yellow" id="T3"></td>
   </tr>
 
    <tr>
@@ -330,7 +330,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM IV</th>
-    <td bgcolor="yellow"><input id="campo-total-itemIV-t2"></td>
+    <td bgcolor="yellow" id="T4"></td>
   </tr>
 
 
@@ -400,7 +400,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM V</th>
-    <td bgcolor="yellow"><input id="campo-total-itemV-t2"></td>
+    <td bgcolor="yellow" id="T5"></td>
   </tr>
 
    <tr>
@@ -469,7 +469,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM VI</th>
-    <td bgcolor="yellow"><input id="campo-total-itemVI-t2"></td>
+    <td bgcolor="yellow" id="T6"></td>
   </tr>
 
    <tr>
@@ -508,7 +508,7 @@
     <td></td>
     <td></td>
     <th colspan="2" bgcolor="yellow">TOTAL NO ITEM VII</th>
-    <td bgcolor="yellow"><input id="campo-total-itemVII-t2"></td>
+    <td bgcolor="yellow" id="T7"></td>
   </tr>
 
   </table>
@@ -602,12 +602,12 @@
 
 
 
-			 
+       
 
 
 
-		</table>
-	</div>
+    </table>
+  </div>
 
 </body>
 </html>
