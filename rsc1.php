@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -11,37 +13,27 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <style type="text/css">
     .bs-example{
-     
       margin: 20px;
+      text-align: center;
     }
     table,th,td{
-      
+         
          border: 1px solid black;
   border-collapse: collapse;
-  text-align: center;
+       text-align: center;
  
 
     }
 </style>
-
-<script src="js/jquery-3.4.1.js"></script>
-
-
-    <script type="text/javascript">
-
-    $(function () {
-  $('#campo1').val("2");
-  $('#teste').text('test');
-});
-
-</script>
 
 </head>
 
 <body>
 
 
-    <table>
+    <div class="bs-example">
+
+    <table class="table table-striped">
 
   <tr>
     <th colspan="7">RECONHECIMENTO DE SABERES E COMPETÊNCIAS-RSC I</th>
@@ -801,6 +793,7 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <td bgcolor="yellow"></td>
   </tr>
 </table>
+</div>
 
 <div>
   <table >
